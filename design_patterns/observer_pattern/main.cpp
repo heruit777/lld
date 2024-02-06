@@ -1,0 +1,4 @@
+/*
+    Walmart interview question
+    Implement Notify me button which you see in Amazon when a product is out of stock. When a product comes in stock so you send a notification to all the users you clicked on the button.
+*/
